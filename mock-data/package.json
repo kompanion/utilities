@@ -1,6 +1,6 @@
 {
   "name": "@kompanion/mock-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "main": "index.ts",
   "licenses": [
@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "@kompanion/types": "*"
+    "@kompanion/types": "^0.0.1"
   },
   "devDependencies": {
     "typescript": "^3.2.4"
