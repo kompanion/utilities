@@ -22,16 +22,16 @@ export const prospectiveTopics = [
 ];
 
 export const contentLevels: TSkillLevels[] = [
+  "allLevels",
   "beginner",
   "intermediate",
-  "advanced",
-  "allLevels"
+  "advanced"
 ];
 
 export const contentFormats: TFormats[] = [
   "video",
   "article",
-  // "audio",
+  "audio",
   "tutorial",
   "course",
   // "book",
